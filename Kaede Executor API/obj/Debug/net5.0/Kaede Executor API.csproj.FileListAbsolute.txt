@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\appsettings.json
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Kaede Executor API.exe
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Kaede Executor API.deps.json
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Kaede Executor API.runtimeconfig.json
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Kaede Executor API.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Kaede Executor API.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Kaede Executor API.pdb
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\scopedcss\bundle\Kaede Executor API.styles.css
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\staticwebassets\Kaede Executor API.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.csproj.CopyComplete
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\refint\Kaede Executor API.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.pdb
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\Kaede Executor API.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor API\obj\Debug\net5.0\ref\Kaede Executor API.dll

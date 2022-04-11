@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Kaede Executor.exe.config
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Kaede Executor.exe
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Kaede Executor.pdb
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\WeAreDevs_API.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede_Executor.Properties.Resources.resources
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.csproj.CopyComplete
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.exe
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.pdb
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\FastColoredTextBox.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Costura.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Costura.pdb
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Costura.xml
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede Executor.csproj.Fody.CopyLocal.cache
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\DiscordRPC.dll
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\DiscordRPC.pdb
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\DiscordRPC.xml
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede_Executor.KeyForm.resources
+C:\Users\User\source\repos\New folder\Kaede Executor\Kaede Executor\obj\Debug\Kaede_Executor.Executor.resources
