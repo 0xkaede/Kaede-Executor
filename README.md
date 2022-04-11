@@ -27,3 +27,11 @@ Also with our api the program also auto updates for user when you change the ver
 
 You will need to go into the project **Kaede Executor.csproj** and change kaedeport.tk to localhost and run the API.
 Then Run the Kaede Executor.exe.
+
+## GUI
+
+The GUI was made in Photoshop here are then png what the ui looks likes 
+
+![image](https://cdn.discordapp.com/attachments/889423498945101837/963129127483899914/HomeFixed.png)
+
+![image](https://cdn.discordapp.com/attachments/889423498945101837/963129525179396186/KeyPageFIXED.png)
